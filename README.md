@@ -1,1 +1,1 @@
-# ml2_final_project
+# Repo contains notebooks for machine learning final project
